@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I rent the systems through Hetzner and HomeServer.
+### I rent the systems through Hetzner and HomeServer.
 
 My HomeServer:
 - Dual Xeon E5 2680V4
@@ -8,3 +8,6 @@ My HomeServer:
 - Disk: 6TB NVMe , 4TB SSD
 - PSU: 750W
 - Guaranteed Bandwidth: 1 Gbit/s
+
+### Which Testnets Did I Participate in ?
+Ironfish, Sinso, Muon Network, Redbelly, Voi, Ar.io, Erbie, CESS, Subspace, Dymension, , Meson Network, Sei, Celestia.....
