@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### Hetzner Server
+AMD Ryzen™ 7 7700
+Ram 64G DDR5
+Disk: 2TB NVMe
+Bandwidth: 1Gb/s
+
 ### I rent the systems through Hetzner and HomeServer.
 
 My HomeServer:
