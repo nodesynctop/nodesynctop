@@ -1,12 +1,17 @@
 ### Hi there 👋
+NodeSync.Top is Trusted PoS Validator | Node Provider
+Website: ​https://nodesync.top/
+Docs: ​https://docs.nodesync.top/
+Telegram Group: ​https://t.me/nodesync_top
+Twitter: https://twitter.com/nodesync_top
 
-### Hetzner Server
+### I RENT THE SYSTEMS THROUGH HETZNER
 AMD Ryzen™ 7 7700
 Ram 64G DDR5
 Disk: 2TB NVMe
 Bandwidth: 1Gb/s
 
-### I rent the systems through Hetzner and HomeServer.
+### OTHER SERVER
 
 My HomeServer:
 - Dual Xeon E5 2680V4
