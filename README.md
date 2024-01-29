@@ -1,4 +1,4 @@
-# Hi there 👋
+### Hi there 👋
 ## NodeSync.Top is Trusted PoS Validator | Node Provider
 - Website: ​https://nodesync.top/
 - Docs: ​https://docs.nodesync.top/
@@ -12,7 +12,7 @@ Telegram me: https://t.me/lthuan2011
 Discord: @lthuan2011
 
 
-### I RENT THE SYSTEMS THROUGH HETZNER
+## I RENT THE SYSTEMS THROUGH HETZNER
 
 AMD Ryzen™ 7 7700 
 
