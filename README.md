@@ -1,10 +1,10 @@
-### Hi there 👋
-#### NodeSync.Top is Trusted PoS Validator | Node Provider
+# Hi there 👋
+## NodeSync.Top is Trusted PoS Validator | Node Provider
 - Website: ​https://nodesync.top/
 - Docs: ​https://docs.nodesync.top/
 - Telegram Group: ​https://t.me/nodesync_top
 - Twitter: https://twitter.com/nodesync_top
-#### About me
+## About me
 Github: https://github.com/lthuan2011
 
 Telegram me: https://t.me/lthuan2011
