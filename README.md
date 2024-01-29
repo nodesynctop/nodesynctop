@@ -6,8 +6,11 @@
 - Twitter: https://twitter.com/nodesync_top
 #### About me
 Github: https://github.com/lthuan2011
+
 Discord: @lthuan2011
+
 Telegram me: @lthuan2011
+
 
 ### I RENT THE SYSTEMS THROUGH HETZNER
 
