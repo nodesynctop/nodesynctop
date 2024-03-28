@@ -5,11 +5,11 @@
 - Telegram Group: ​https://t.me/nodesync_top
 - Twitter: https://twitter.com/nodesync_top
 ## About me
-Github: https://github.com/lthuan2011
+Github: https://github.com/nodesynctop
 
-Telegram me: https://t.me/lthuan2011
+Telegram me: https://t.me/nodesync_me
 
-Discord: @lthuan2011
+Discord: @nodesync_top
 
 
 ## I RENT THE SYSTEMS THROUGH HETZNER
