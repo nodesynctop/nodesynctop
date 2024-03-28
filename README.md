@@ -6,11 +6,11 @@
 - Twitter: https://twitter.com/nodesync_top
 - Explorer: https://explorer.nodesync.top
 ## About me
-Github: https://github.com/nodesynctop
+Github: ```https://github.com/nodesynctop```
 
-Telegram me: https://t.me/nodesync_me
+Telegram me: ```https://t.me/nodesync_me```
 
-Discord: @nodesync_top
+Discord: ```@nodesync_top```
 
 
 ## I RENT THE SYSTEMS THROUGH HETZNER
