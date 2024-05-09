@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## NodeSync.Top is Trusted PoS Validator | Node Provider
 - Website: ​https://nodesync.top/
-- Docs: ​https://docs.nodesync.top/
+- Docs: https://services.nodesync.top
 - Telegram Group: ​https://t.me/nodesync_top
 - Twitter: https://twitter.com/nodesync_top
 - Explorer: https://explorer.nodesync.top
