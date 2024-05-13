@@ -8,7 +8,7 @@
 ## About me
 Github: `https://github.com/nodesynctop`
 
-Telegram me: ```https://t.me/nodesync_me`
+TG me: `https://t.me/nodesync_me`
 
 Discord: `@nodesync_top`
 
