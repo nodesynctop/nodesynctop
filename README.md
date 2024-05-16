@@ -1,6 +1,8 @@
 ### Hi there 👋
 ## NodeSync.Top is Trusted PoS Validator | Node Provider
+
 <img src="https://raw.githubusercontent.com/nodesynctop/nodesynctop/main/nodesync.jpg">
+
 #### - Website: ​https://nodesync.top
 #### - Services: https://services.nodesync.top
 #### - Telegram Group: ​https://t.me/nodesync_top
