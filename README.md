@@ -14,6 +14,7 @@ Discord: `@nodesync_top`
 
 Partner: `@PactusChain`
 
+<img src="https://raw.githubusercontent.com/nodesynctop/nodesynctop/main/nodesync.jpg">
 
 ## Which Testnets Did I Participate in ?
 Avail, Warden, Hedge, Side, Tangle Network, Ironfish, Sinso, Muon Network, Redbelly, Voi, Ar.io, Erbie, CESS, Subspace, Dymension, , Meson Network, Sei, Celestia.....
