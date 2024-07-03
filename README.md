@@ -10,7 +10,7 @@
 ## About me
 Github: `https://github.com/nodesynctop`
 
-TG me: `https://t.me/nodesync_me`
+TG me: `https://t.me/nodesync_top`
 
 Discord: `@nodesync_top`
 
