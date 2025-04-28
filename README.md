@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/nodesynctop/nodesynctop/main/nodesync.jpg">
 
 #### - Website: ​https://nodesync.top
-#### - Services: https://services.nodesync.top
+#### - Services: https://nodesync.top/services
 #### - Twitter: https://twitter.com/nodesync_top
 #### - Explorer: https://explorer.nodesync.top
 ## About me
