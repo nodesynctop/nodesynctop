@@ -1,5 +1,5 @@
 ### Hi there 👋
-## NodeSync.Top is Trusted PoS Validator | Node Provider
+## Validator, Infra Provider, IBC Relayer
 
 <img src="https://raw.githubusercontent.com/nodesynctop/nodesynctop/main/nodesync.jpg">
 
